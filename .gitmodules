@@ -1,0 +1,63 @@
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/preservim/nerdtree
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = https://github.com/tabnine/YouCompleteMe
+[submodule "syntastic"]
+	path = syntastic
+	url = https://github.com/vim-syntastic/syntastic
+[submodule "vim-colors-solarized"]
+	path = vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized
+[submodule "nerdcommenter"]
+	path = nerdcommenter
+	url = https://github.com/preservim/nerdcommenter
+[submodule "vim-surround"]
+	path = vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "vim-fugitive"]
+	path = vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "vim-gitgutter"]
+	path = vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter/
+[submodule "vim-airline"]
+	path = vim-airline
+	url = https://github.com/vim-airline/vim-airline
+[submodule "vim-airline-themes"]
+	path = vim-airline-themes
+	url = https://github.com/vim-airline/vim-airline-themes
+[submodule "vim-repeat"]
+	path = vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "supertab"]
+	path = supertab
+	url = https://github.com/ervandew/supertab
+[submodule "vim-easymotion"]
+	path = vim-easymotion
+	url = https://github.com/easymotion/vim-easymotion
+[submodule "indentline"]
+	path = indentline
+	url = https://github.com/yggdroot/indentline
+[submodule "delimitmate"]
+	path = delimitmate
+	url = https://github.com/raimondi/delimitmate
+[submodule "nerdtree-git-plugin"]
+	path = nerdtree-git-plugin
+	url = https://github.com/xuyuanp/nerdtree-git-plugin
+[submodule "vim-trailing-whitespace"]
+	path = vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace
+[submodule "vim-eunuch"]
+	path = vim-eunuch
+	url = https://github.com/tpope/vim-eunuch
+[submodule "ansible-vim"]
+	path = ansible-vim
+	url = https://github.com/pearofducks/ansible-vim
+[submodule "vim-perl"]
+	path = vim-perl
+	url = https://github.com/vim-perl/vim-perl
+[submodule "vim-jinja"]
+	path = vim-jinja
+	url = https://github.com/lepture/vim-jinja
